@@ -1,17 +1,10 @@
 # start mongodb
 
-mongod
+mongodb
 
-# dbName : db_media
-# collections : news_list, contactus_list
+# dbName 
+# collections 
 
-# start media-admin server at localhost:9900
-
-cd media-admin
-npm start
-
-# start media-cust app at localhost:9901
-
-cd media-cust
+# start media-user app at localhost:9901
 npm start
 
