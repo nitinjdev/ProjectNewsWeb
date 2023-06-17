@@ -1,5 +1,7 @@
-# start mongodb
+# web screen shot added in webImages folder
+-- reference to UI
 
+# start mongodb
 mongodb
 
 # dbName 
